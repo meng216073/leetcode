@@ -26,6 +26,11 @@
 
 - 2019-10-08: [纪念 LeetCode 项目 Star 突破 2W](./thanksGiving2.md)，并且 Github 搜索“LeetCode”，排名第一。
 
+- 2020-04-12: [项目突破三万 Star](./thanksGiving3.md)。
+- 2020-04-14: 官网`力扣加加`上线啦 💐💐💐💐💐，有专题讲解，每日一题，下载区和视频题解，后续会增加更多内容，还不赶紧收藏起来？地址：http://leetcode-solution.cn/
+
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvenxvjlsj30z90dtdhw.jpg)
+
 ## 介绍
 
 leetcode 题解，记录自己的 leetcode 解题之路。
@@ -49,9 +54,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 擅长前端工程化，前端性能优化，前端标准化等，做过。net， 搞过 Java，现在是一名前端工程师，我的个人博客：https://lucifer.ren/blog/
 
 我经常会在开源社区进行一些输出和分享，比较受欢迎的有 [宇宙最强的前端面试指南](https://github.com/azl397985856/fe-interview)
-和 [我的第一本小书](https://github.com/azl397985856/automate-everything)。目前本人正在写一本关于《leetcode 题解》的实体书，感兴趣的可以通过邮箱或者微信联系我，我会在出版的第一时间通知你，并给出首发优惠价。
-
-另外如果大家需要内推的可以找我，我这里有包括阿里，腾讯，头条，网易等很多公司的朋友。有需要可以直接群里联系我，或者发送到我的个人邮箱 [azl397985856@gmail.com]。
+和 [我的第一本小书](https://github.com/azl397985856/automate-everything)。目前本人正在写一本关于《leetcode 题解》的实体书，感兴趣的可以通过邮箱或者微信联系我，我会在出版的第一时间通知你，并给出首发优惠价。有需要可以直接群里联系我，或者发送到我的个人邮箱 [azl397985856@gmail.com]。 新书详情戳这里：[《或许是一本可以彻底改变你刷 LeetCode 效率的题解书》](https://lucifer.ren/blog/2020/04/07/leetcode-book.intro/)
 
 ## 食用指南
 
@@ -122,7 +125,9 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 #### 简单难度
 
+- [0001.TwoSum](./problems/1.TwoSum.md) 🆕
 - [0020.Valid Parentheses](./problems/20.validParentheses.md)
+- [0021.MergeTwoSortedLists](./problems/21.MergeTwoSortedLists.md) 🆕
 - [0026.remove-duplicates-from-sorted-array](./problems/26.remove-duplicates-from-sorted-array.md)
 - [0053.maximum-sum-subarray](./problems/53.maximum-sum-subarray-cn.md) 🆕
 - [0088.merge-sorted-array](./problems/88.merge-sorted-array.md)
@@ -147,8 +152,9 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0283.move-zeroes](./problems/283.move-zeroes.md)
 - [0342.power-of-four](./problems/342.power-of-four.md)
 - [0349.intersection-of-two-arrays](./problems/349.intersection-of-two-arrays.md)
-- [0437.path-sum-iii](./problems/437.path-sum-iii.md) 🆕
 - [0371.sum-of-two-integers](./problems/371.sum-of-two-integers.md)
+- [0437.path-sum-iii](./problems/437.path-sum-iii.md) 🆕
+- [0455.AssignCookies](./problems/455.AssignCookies.md) 🆕
 - [0501.find-mode-in-binary-search-tree](./problems/501.Find-Mode-in-Binary-Search-Tree.md)🆕
 - [0575.distribute-candies](./problems/575.distribute-candies.md)
 - [0874.walking-robot-simulation](./problems/874.walking-robot-simulation.md) 🆕
@@ -162,7 +168,9 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0005.longest-palindromic-substring](./problems/5.longest-palindromic-substring.md)
 - [0011.container-with-most-water](./problems/11.container-with-most-water.md)
 - [0015.3-sum](./problems/15.3-sum.md)
+- [0017.Letter-Combinations-of-a-Phone-Number](./problems/17.Letter-Combinations-of-a-Phone-Number.md) 🆕
 - [0019. Remove Nth Node From End of List](./problems/19.removeNthNodeFromEndofList.md)
+- [0022.GenerateParentheses](./problems/22.GenerateParentheses.md) 🆕
 - [0024. Swap Nodes In Pairs](./problems/24.swapNodesInPairs.md)
 - [0029.divide-two-integers](./problems/29.divide-two-integers.md)
 - [0031.next-permutation](./problems/31.next-permutation.md)
@@ -193,6 +201,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0098.validate-binary-search-tree](./problems/98.validate-binary-search-tree.md)
 - [0102.binary-tree-level-order-traversal](./problems/102.binary-tree-level-order-traversal.md)
 - [0103.binary-tree-zigzag-level-order-traversal](./problems/103.binary-tree-zigzag-level-order-traversal.md)
+- [105.Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.md](./problems/105.Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.md)
 - [0113.path-sum-ii](./problems/113.path-sum-ii.md)
 - [0129.sum-root-to-leaf-numbers](./problems/129.sum-root-to-leaf-numbers.md)
 - [0130.surrounded-regions](./problems/130.surrounded-regions.md)
@@ -264,6 +273,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0030.substring-with-concatenation-of-all-words](./problems/30.substring-with-concatenation-of-all-words.md)
 - [0032.longest-valid-parentheses](./problems/32.longest-valid-parentheses.md)
 - [0042.trapping-rain-water](./problems/42.trapping-rain-water.md)
+- [0052.N-Queens-II](./problems/52.N-Queens-II.md) 🆕
 - [0084.largest-rectangle-in-histogram](./problems/84.largest-rectangle-in-histogram.md) 🆕
 - [0085.maximal-rectangle](./problems/85.maximal-rectangle.md)
 - [0124.binary-tree-maximum-path-sum](./problems/124.binary-tree-maximum-path-sum.md)
@@ -292,13 +302,14 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [前缀树专题](./thinkings/trie.md)
 - [《日程安排》专题](https://lucifer.ren/blog/2020/02/03/leetcode-%E6%88%91%E7%9A%84%E6%97%A5%E7%A8%8B%E5%AE%89%E6%8E%92%E8%A1%A8%E7%B3%BB%E5%88%97/)
 - [《构造二叉树》专题](https://lucifer.ren/blog/2020/02/08/%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%93%E9%A2%98/)
-- [《贪婪策略》专题](./thinkings/greedy.md) 🆕
-- [《深度优先遍历》专题](./thinkings/DFS.md) 🆕
+- [《贪婪策略》专题](./thinkings/greedy.md)
+- [《深度优先遍历》专题](./thinkings/DFS.md)
 - [滑动窗口（思路 + 模板）](./thinkings/slide-window.md) 🆕
 - [位运算](./thinkings/bit.md) 🆕
 - [设计题](./thinkings/design.md) 🆕
 - [小岛问题](./thinkings/island.md) 🆕
 - [最大公约数](./thinkings/GCD.md) 🆕
+- [并查集](./thinkings/union-find.md) 🆕
 
 ### anki 卡片
 
